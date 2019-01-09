@@ -1,3 +1,1 @@
-#!/bin/bash
-cal
-
+echo "Automate latest"
